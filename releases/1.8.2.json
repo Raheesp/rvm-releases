@@ -1,0 +1,18 @@
+{
+  "signature": "KS/xFVnnA6FH1U2m5vs5sjbVyCjdvbmx71PS4WG1OSnfmHIv7lRzOTG/CIvB4wWhfkjNG+o3zZTnpsoGEYyOBA==",
+  "signed": {
+    "created_by": "Rahees",
+    "files": {
+      "RVM-Agent.exe": "ff784fe8b8ff54cc02e9377509ac2e756fdea0fb367bbe0d498ac580e1948b1d",
+      "RVM-Setup-1.8.2.exe": "c737e1cb69e68423b379b77fdd8cc8188cd696d82cf60631db4f2388aa6035d5",
+      "RVM.exe": "76314ad15e7b96c6856aa019f616b377881c52510e1f03519633389bb8eebc32"
+    },
+    "installer": {
+      "name": "RVM-Setup-1.8.2.exe",
+      "url": "https://github.com/Raheesp/rvm-releases/releases/download/v1.8.2/RVM-Setup-1.8.2.exe"
+    },
+    "product": "RVM",
+    "signed_at": "2026-10-22T08:13:34+00:00",
+    "version": "1.8.2"
+  }
+}
