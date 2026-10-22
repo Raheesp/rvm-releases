@@ -1,0 +1,66 @@
+{
+  "signature": "wL60mrjvUBsZgczWIcQaM9UJbEFwMx1EHSn40pjzARIbh4sl/xxSlV7SlUaieS3nb9XkKaCsEa9JJAtpM4smBA==",
+  "signed": {
+    "created_by": "Rahees",
+    "files": {
+      "RVM-Agent.exe": "dee291d255aae1da8464b5aa4a8d1931867973a04c0f33e76ed38edea38d6d76",
+      "RVM-Setup-1.8.3.exe": "b61abcb81d55de7de24b0f7c56b53b6e4dcb888d15279610893030c46ba306f9",
+      "RVM.exe": "cf739864fb4637793f0ad87eb7aff21298146ec2b442ffa74cbfc8b395d4d70e"
+    },
+    "installer": {
+      "name": "RVM-Setup-1.8.3.exe",
+      "parts": [
+        {
+          "name": "RVM-Setup-1.8.3.exe.001",
+          "sha256": "b2deae39de80459628eaf9f7cc97f5b4673bba0b6dba4c4a8b42fd9530bfddcb",
+          "size": 4194304
+        },
+        {
+          "name": "RVM-Setup-1.8.3.exe.002",
+          "sha256": "90b7ff2f80597338203746f993817edd2a1c3e87abe8cccc7c7fb877dd7a6696",
+          "size": 4194304
+        },
+        {
+          "name": "RVM-Setup-1.8.3.exe.003",
+          "sha256": "ba42098c2d170cfc7f211a83a8efaac9deda34fccd823782a4f05cd3760149c1",
+          "size": 4194304
+        },
+        {
+          "name": "RVM-Setup-1.8.3.exe.004",
+          "sha256": "ce686cb99860ef768e631666e08fa159316548f0aacd3b82836f185c7eb44935",
+          "size": 4194304
+        },
+        {
+          "name": "RVM-Setup-1.8.3.exe.005",
+          "sha256": "a062ed31cd4603cac2a5968eeecd51b60306afeda39507a784eb1f705f6498eb",
+          "size": 4194304
+        },
+        {
+          "name": "RVM-Setup-1.8.3.exe.006",
+          "sha256": "bfb27ae09673140f789c59aa7beb270cd8d8d662243ad4959979c42c7f8d16ad",
+          "size": 4194304
+        },
+        {
+          "name": "RVM-Setup-1.8.3.exe.007",
+          "sha256": "391e842787d40d9e6090ef4498488445bb15e33f5b8aa75530446a9adfa82433",
+          "size": 4194304
+        },
+        {
+          "name": "RVM-Setup-1.8.3.exe.008",
+          "sha256": "d17f21a2a6e4db46007a12f54e9053d6cc9c0c57741e7a4be8fa4d632db64d7e",
+          "size": 4194304
+        },
+        {
+          "name": "RVM-Setup-1.8.3.exe.009",
+          "sha256": "45958ec53f13ea8c5c27a65a055d5f20311a03a31974c57e01f21da241cdab7c",
+          "size": 2025616
+        }
+      ],
+      "size": 35580048,
+      "url": "https://github.com/Raheesp/rvm-releases/releases/download/v1.8.3/RVM-Setup-1.8.3.exe"
+    },
+    "product": "RVM",
+    "signed_at": "2026-10-22T11:59:43+00:00",
+    "version": "1.8.3"
+  }
+}
