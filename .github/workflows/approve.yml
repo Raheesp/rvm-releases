@@ -8,7 +8,8 @@ permissions:
   issues: write
 jobs:
   decide:
-    if: contains(fromJSON('["approve","stop","revoke"]'), github.event.label.name)
+    # only the repository owner's own labels count (defence in depth - only people with triage rights can label at all)
+    if: contains(fromJSON('["approve","stop","revoke"]'), github.event.label.name) && github.event.sender.login == github.repository_owner
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -39,7 +40,7 @@ jobs:
             const device = process.env.DEVICE || '(none)';
             await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo,
               issue_number: context.issue.number,
-              body: `RVM Guard: **${context.payload.label.name}** applied to \`${device}\`. The PC picks it up within ~30 minutes.` });
+              body: `RVM Guard: **${context.payload.label.name}** applied to \`${device}\`. A PC that is waiting picks it up within a few minutes; a running one within half an hour.` });
             await github.rest.issues.update({ owner: context.repo.owner, repo: context.repo.repo,
               issue_number: context.issue.number, state: 'closed' });
         env:

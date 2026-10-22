@@ -12,5 +12,6 @@ with the owner's key; the private key never leaves the owner's PC, so nothing he
 ## Approve a new PC from GitHub
 
 A new PC shows its **device code** and opens an issue here. To approve it, add the **`approve`** label to the issue
-(or `stop` / `revoke`). A GitHub Action signs the change with a limited key and pushes it; that PC picks it up within
-half an hour. The approvals key can only approve or stop PCs - it can never mark a release official.
+(or `stop` / `revoke`). A GitHub Action signs the change with a limited key and pushes it; a PC that is waiting starts
+within a few minutes, a running one picks it up within half an hour. Only the repository owner's labels count, and the
+approvals key can only approve or stop PCs - it can never mark a release official.
