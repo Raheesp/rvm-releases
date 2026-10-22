@@ -1,5 +1,5 @@
 {
-  "signature": "wL60mrjvUBsZgczWIcQaM9UJbEFwMx1EHSn40pjzARIbh4sl/xxSlV7SlUaieS3nb9XkKaCsEa9JJAtpM4smBA==",
+  "signature": "f83p2FrWT33uElSTb4BMG6mtR0Rx01isNfb1HipnzNWvddyjAcPtHQRrPvtlwM8W1EuqgVTqQssRlYSFWF3QDg==",
   "signed": {
     "created_by": "Rahees",
     "files": {
@@ -60,7 +60,7 @@
       "url": "https://github.com/Raheesp/rvm-releases/releases/download/v1.8.3/RVM-Setup-1.8.3.exe"
     },
     "product": "RVM",
-    "signed_at": "2026-10-22T11:59:43+00:00",
+    "signed_at": "2026-10-22T12:18:32+00:00",
     "version": "1.8.3"
   }
 }
