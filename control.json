@@ -1,18 +1,18 @@
 {
-  "signature": "t2V/tQ0XjHKmA6t3b82QrpYaKHwhmYxJm4R6/pfro8LuJ7OpHmQM7CzYZ8JPX5T9UkKKXd/6usdmWPPQ/mbRAw==",
+  "signature": "w/bJyb3mWK2rFxPCffd/yk1N2Kuc6ZpROGh4698/iB4Y07Mqd10xPldlH+a2wCK2dZ/aQ6TfIvWTCjI7Q+QyCA==",
   "signed": {
     "approvals_keys": [
       "DITfuNhD8jgTDVoc9eEu5pC6ugvO58GP8SaeJl0yLaM="
     ],
-    "latest": "",
+    "latest": "1.8.1",
     "message": "",
     "min_version": "",
     "offline_days": 14,
     "product": "RVM",
     "require_approval": true,
     "revoked": [],
-    "serial": 1792643315,
+    "serial": 1792646976,
     "stop_all": false,
-    "updated": "2026-10-22T04:28:35+00:00"
+    "updated": "2026-10-22T05:29:36+00:00"
   }
 }
