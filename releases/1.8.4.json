@@ -1,0 +1,191 @@
+{
+  "signature": "XmF+WZOXc/J0imKHFiBfcwvpidABtucz/0RrZk7Yhuc8drjlkw8JsdrV7qp2zHjUBdpEFPmEf452TNjTM9uuAg==",
+  "signed": {
+    "created_by": "Rahees",
+    "files": {
+      "RVM-Agent.exe": "3ecc26b55759ea43f933eec22cc5797436253de0103eda3144c751230db10ed8",
+      "RVM-Setup-1.8.4.exe": "66b267968aa91fb1aca480342a016268fff7cc2e4dd2e705624beb05ce2ffb8f",
+      "RVM.exe": "48a8ab0d759bb88956244f9c9e9c05abd45dbd5f3ba2960e1f6c54ce8683bc0b"
+    },
+    "installer": {
+      "name": "RVM-Setup-1.8.4.exe",
+      "parts": [
+        {
+          "name": "RVM-Setup-1.8.4.exe.001",
+          "sha256": "d3e03d52693f749b4a95e75d64e86f8e1ceb2e7b6e040be480b3df17f265e355",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.002",
+          "sha256": "d91d4c247d7375e1516cd66a61af13f5143a57f69c11e56eb8843bbf321c8775",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.003",
+          "sha256": "c743c9b8899f4271b7cb8370eec6c9b56d3f54f65bed7fb8cf0e5b0004c5725e",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.004",
+          "sha256": "ee8b54c6d9cecd37c3a0c173f8b67e170a68d0a347e375380430667b521c8ef8",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.005",
+          "sha256": "4227794a6afae7340d20536a0c54e63236596a024131066d3079ef92800729b1",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.006",
+          "sha256": "a3c7a84271a3037c35f7558173a8a935b14f13454554a15090ecce776947c6a4",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.007",
+          "sha256": "caad756e42c34869d9c804c6f963bd202b4e2c942673f067807e3f87de2d34b6",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.008",
+          "sha256": "dfe60ebdc2b918f7e155820157f554758d7431ddd7cba3bc17485d959616b5e1",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.009",
+          "sha256": "68e5ea2aadcc4def2b7214c3e093726a8ef28f8ebb782f09f70faf35bc48c417",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.010",
+          "sha256": "05f4206192ae7281ee5b3838571e1b6f69d44fd82a75a14a38c30a0b78421ffb",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.011",
+          "sha256": "bb66c21fd44167d77650dbdc58c322b3ee710e19fc7dadc49e38ae9acf4a5826",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.012",
+          "sha256": "ff09e6ffc2a9cb6ff52f576394729399fb8b71e2d7d3b39c01efd906eb966da9",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.013",
+          "sha256": "53316d1a4bef622a892cd6f8d4170b6968435e26299e261c0d8383113bc65129",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.014",
+          "sha256": "a09a2a44a0544dcb8316734a5c323771b0022d84c363188ca294a0714bb5e2c4",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.015",
+          "sha256": "19ee627828554fecac2867e3ac72012fd27fedd490b59e1a3595e105164ab9cd",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.016",
+          "sha256": "538c1a5c85a720fadca7e2948f17cb722aaa4fc6ae39ff6030475bb42b6ce8f1",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.017",
+          "sha256": "13375b9be755f7748d0be5e43b22fab3ffc40baf0fd51d67ce6b3535e3828d69",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.018",
+          "sha256": "df41381ec1e90c3dcfdcadb77360e56fe3a1bcaea855157c97585f220cf5b743",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.019",
+          "sha256": "ebceed4d2d44474589988a539e2190ed506e48797f6738f3367c8dca29229a86",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.020",
+          "sha256": "f5d774afd7a407595a83a3b160760df7722e21822177e27c7ccdff475a01b62d",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.021",
+          "sha256": "94927db544d0df8e3d0c4c3783c70a7802834dcf927fcb353f2fc09ea255ec74",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.022",
+          "sha256": "180e5aefdf9970655c3bb910693c6dcb2c8c2c490c860ad699a026866bb38fe8",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.023",
+          "sha256": "81c00f805170e89d8aad1796834808577550f10738fef0e480ca539b77ef1cf5",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.024",
+          "sha256": "0cfda3d74332609bf1bab8c4b85d8930162d2855a87f307a65ea3b5579a4911b",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.025",
+          "sha256": "caa9f5579f7a86968df0e0e814c2460576e10392fbea5e6604d8a7fc64f31dd6",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.026",
+          "sha256": "9c9ac68c00c9813cdcf5f36a820bf535ead145d9cbf1b6c788d8bc98124dc9fd",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.027",
+          "sha256": "91501739215e4a75211cdccde3b8858ef93873e83de69422e48283535291d240",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.028",
+          "sha256": "ff2ec666b235c3bec7c70ce4b0f89044f8fbdd85cf9cd3bc40d45dd3d40378e4",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.029",
+          "sha256": "e8aae6440d6c28605332a67adef7daa8a8fcf75e3c3c70e8ba7445b4197ee20e",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.030",
+          "sha256": "e5603a53afae5bb4f5da4628ff690940276e221a12e75ebff51ed30a916787e5",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.031",
+          "sha256": "bf87f3d9fed79a970de3e50c604f454440c9f89337ee1675c0991ea810ef9579",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.032",
+          "sha256": "f0edcede8571b1ec2fd27670730e8a47c87aa2c0c2e9afd60b6b758badeea52c",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.033",
+          "sha256": "e8b36f92bb3c02eea5569d6fb39a98b3cef66a525034476454de8dccf35db53a",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.8.4.exe.034",
+          "sha256": "1412b3d4b6356a9a1f97c8c140aeae215fb9e94499ac7a3cb5edc98e3cac929c",
+          "size": 983336
+        }
+      ],
+      "size": 35586344,
+      "url": "https://github.com/Raheesp/rvm-releases/releases/download/v1.8.4/RVM-Setup-1.8.4.exe"
+    },
+    "product": "RVM",
+    "signed_at": "2026-10-22T19:21:47+00:00",
+    "version": "1.8.4"
+  }
+}
