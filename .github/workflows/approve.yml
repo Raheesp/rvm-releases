@@ -1,0 +1,46 @@
+# Approve / stop / revoke an RVM PC by labelling its request issue. Created by Rahees.
+name: RVM approval
+on:
+  issues:
+    types: [labeled]
+permissions:
+  contents: write
+  issues: write
+jobs:
+  decide:
+    if: contains(fromJSON('["approve","stop","revoke"]'), github.event.label.name)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install --quiet cryptography
+      - name: Sign the decision
+        env:
+          RVM_APPROVALS_KEY: ${{ secrets.RVM_APPROVALS_KEY }}
+          LABEL: ${{ github.event.label.name }}
+          TITLE: ${{ github.event.issue.title }}
+          BODY: ${{ github.event.issue.body }}
+        run: python approve.py
+      - name: Publish
+        run: |
+          git config user.name "RVM approval bot"
+          git config user.email "actions@github.com"
+          git add devices.json
+          git commit -m "RVM Guard: $LABEL $DEVICE" || echo "no change"
+          git push
+        env:
+          LABEL: ${{ github.event.label.name }}
+          DEVICE: ${{ env.DEVICE }}
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const device = process.env.DEVICE || '(none)';
+            await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `RVM Guard: **${context.payload.label.name}** applied to \`${device}\`. The PC picks it up within ~30 minutes.` });
+            await github.rest.issues.update({ owner: context.repo.owner, repo: context.repo.repo,
+              issue_number: context.issue.number, state: 'closed' });
+        env:
+          DEVICE: ${{ env.DEVICE }}

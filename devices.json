@@ -1,0 +1,16 @@
+{
+  "signature": "7gQ87Cskdnhp25U88ASYj0JVq0GQGWpj+e8segfAQBWjTL6JB59bHUQaakXX9YL4EMCoVZhDTH9HaXaJo4J/BQ==",
+  "signed": {
+    "devices": {
+      "3Y7E-IB4A-T7SU-LEOS": {
+        "m": "development + first install",
+        "n": "Owner PC",
+        "s": "approved",
+        "t": "2026-10-22T04:28:43+00:00"
+      }
+    },
+    "product": "RVM",
+    "serial": 1792643323,
+    "updated": "2026-10-22T04:28:43+00:00"
+  }
+}
