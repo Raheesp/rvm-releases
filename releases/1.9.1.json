@@ -1,5 +1,5 @@
 {
-  "signature": "QbomVQIAcSlTOdUPzYxzIEn3mj2cwWypqWF5M6ayM3/Fo1vribkz0UrOOeQ/2jLfk5QZGI2pCSMNp5zVD3P7DA==",
+  "signature": "ivKBR0U7sn1wC3NLjfg5Z823u0P3vLDRKLj883a8ELtL1MnxjXFaUbDXgBD/1kvDhzxR24ljXlsxG/KojCbADQ==",
   "signed": {
     "created_by": "Rahees",
     "files": {
@@ -185,7 +185,7 @@
       "url": "https://github.com/Raheesp/rvm-releases/releases/download/v1.9.1/RVM-Setup-1.9.1.exe"
     },
     "product": "RVM",
-    "signed_at": "2026-10-23T10:49:25+00:00",
+    "signed_at": "2026-10-23T13:24:39+00:00",
     "version": "1.9.1"
   }
 }
