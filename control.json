@@ -1,10 +1,10 @@
 {
-  "signature": "5T3pmL/Z2FjCi5v64ax86XeSTnxU01OeKJBSpURR0QaGTn4x76iIy24T1HOD7VfPIjanvqCR3+0IfDdXIXqtCQ==",
+  "signature": "A2rumHSCK1Q1MwvrhL9VpGNzThP0bs+Q12Eh8NUceqmF4bPLPjzRPR3bpd0I6F8fdmLJtRhIxnFPNLef+TRBDQ==",
   "signed": {
     "approvals_keys": [
       "DITfuNhD8jgTDVoc9eEu5pC6ugvO58GP8SaeJl0yLaM="
     ],
-    "latest": "1.8.4",
+    "latest": "1.8.5",
     "message": "",
     "min_version": "",
     "offline_days": 14,
@@ -14,8 +14,8 @@
     "product": "RVM",
     "require_approval": true,
     "revoked": [],
-    "serial": 1792700666,
+    "serial": 1792731989,
     "stop_all": false,
-    "updated": "2026-10-22T20:24:26+00:00"
+    "updated": "2026-10-23T05:06:29+00:00"
   }
 }
