@@ -1,0 +1,196 @@
+{
+  "signature": "+2wmcyCstFOYyExiWfznflwzJfDnZ7IaDdveq433f8sA+qemUASwOUOO40BCYFJbxmRWCocLOb25o6CM9WaBDQ==",
+  "signed": {
+    "created_by": "Rahees",
+    "files": {
+      "RVM-Agent.exe": "9df08578269252f8ad04e73e1ed008e41b66873699701a547d55f43add6d9851",
+      "RVM-Setup-1.9.6.exe": "b646d5220886ac0a5c073448886e2795a31285ff4801330f067b0c5bd8c9d26a",
+      "RVM.exe": "262b749883329de1679d1f835329666b188b2f58e03ea3170ea9a7770101ce22"
+    },
+    "installer": {
+      "name": "RVM-Setup-1.9.6.exe",
+      "parts": [
+        {
+          "name": "RVM-Setup-1.9.6.exe.001",
+          "sha256": "93258299d25ed0503efb146887cc16b839bb1c1007ce1c33b166373ceca4659b",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.002",
+          "sha256": "a5adaefae7930c655df7fd4900e8d8dc98cc05678fe3c7fcbd2ba63b4869c0f2",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.003",
+          "sha256": "b484e4a255725693c7a6be380fb3c8c0023515bfcaa82850d1f86cc977dfda21",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.004",
+          "sha256": "03e8983926a73476cdf3f983409a9906491121e78fa280994837122a85182848",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.005",
+          "sha256": "d19e780f3388967b4820464885bf4c2385badfbd621b1bd1b45f63e9139e996b",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.006",
+          "sha256": "9f2bd16260c48a62ea7a5f0dd018abe318f488dfd34d1c92ec689e7c218f30f1",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.007",
+          "sha256": "51d04b9d5eeb8f9a6ecbac41eabf299b215364d79f5c97287b432690b86085c0",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.008",
+          "sha256": "44bc39194db5fdf933b551c475e09f36db61f351dac3e192d7e281ec399b332a",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.009",
+          "sha256": "5a8d35940c2f829c529ed55d6b52ddc1ec31f607c31e4d1fe3fbd2fadc129bd3",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.010",
+          "sha256": "8d7633eb951fa216b6b56072858f4d9acecb4c1e0e2e623ee5b730696e44ccd5",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.011",
+          "sha256": "a39a11e2ce598a4fe7e82e8df7a2dfd985dbc92fac887107c8739328a4f9a2e6",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.012",
+          "sha256": "7e848d45861f939777f6ec70546e89efafe6db8f5ae446f8b5ca04e1f447e859",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.013",
+          "sha256": "5ca59f683dfc638447a6e168c1005c4873632c394a72441f74b93625b2b59d9a",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.014",
+          "sha256": "59c37513b7b0812e3510267d508eca14316fe8c5680f667b1bab2612f8b78ebd",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.015",
+          "sha256": "54ae5ca16cd8eb91a2809c5608ccafce5a397748c37949139f775cc34a92b637",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.016",
+          "sha256": "6217c386db3c0f6a294b65d1f2a7ae98513964b2beb7d9d5fe7619a9f52f2580",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.017",
+          "sha256": "b8d3b68c08dcfc1a1d7a1b38594bd39ea5cd27eee38c18f0e86cca0f025e6990",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.018",
+          "sha256": "85a71daa41b92d9020b74cb338834268d8c0555f6203aefc1c859b8ff4c944bd",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.019",
+          "sha256": "ef6c10ad6409908c551a720afe57145eb6d0ff5f646072785063c699e5637e9d",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.020",
+          "sha256": "eb15cf050a1becd36efcb82234f3bcb155937bdbfb447bdff6d2ad4d77c2de15",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.021",
+          "sha256": "e4081d731f8eb44d1c7e6635fa7f4a223f200f251b0f380dc9133df8cf84adde",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.022",
+          "sha256": "dbc41bc922f8ef4b325646af858b4044eb5c8df927584d42058039d8120266c4",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.023",
+          "sha256": "2c581325d2026b347f86ec92965f42d276aa18fbec9069c69563b19c6b1edc0f",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.024",
+          "sha256": "c62edd0a0cd6693184398b72f08bd9655369d303b9447984312c2102a947539c",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.025",
+          "sha256": "26070a4f68dae8338f8107c833e0f8eefdd67ffe0b36be66e8cddd51260b12f8",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.026",
+          "sha256": "83a64754fcfa07b1ab139570121b8209a755d9b2f023431f0d208682dd49d674",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.027",
+          "sha256": "5949a5be041bd03a1cf7aaf11a109470d495ad84b7b41929b69b39d53fe6cec6",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.028",
+          "sha256": "f905b4209ebc790793ba5107ec8566c2e935fb4798facc11c4274d9d70fb1f20",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.029",
+          "sha256": "27fbddec75a33c1d3965ef9e53d35183d880eb5beb5b8a828baa1d07cf7f8ed8",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.030",
+          "sha256": "c8e68a31fa38fee28386e35f6937ed6b22d73451960a4e1bf05ad8f7d230af08",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.031",
+          "sha256": "cde97c229319816add4eab728983db1eb82278807df11bb107bb5579db6ad416",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.032",
+          "sha256": "9b6c323e04912b536deb2559f3e3423e773ef1c0aa3753324cae5a0a4ebb1e5d",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.033",
+          "sha256": "65fa4a99c572235582443d9936b68d852c277dafd441b697752d19dfd8cdce67",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.034",
+          "sha256": "3731232967192b503d889b7090e4763956e83b3c0521705f63ac7b500a172232",
+          "size": 1048576
+        },
+        {
+          "name": "RVM-Setup-1.9.6.exe.035",
+          "sha256": "11308a91db357fb5dc3d29985b5515943a3afe25d6218ac227d7dd86b17cd626",
+          "size": 77560
+        }
+      ],
+      "size": 35729144,
+      "url": "https://github.com/Raheesp/rvm-releases/releases/download/v1.9.6/RVM-Setup-1.9.6.exe"
+    },
+    "product": "RVM",
+    "signed_at": "2026-10-28T11:18:41+00:00",
+    "version": "1.9.6"
+  }
+}
